@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.ipynb_checkpoints/
 
 # Application specifc
 venv/
@@ -20,3 +21,7 @@ htmlcov/
 *.cover
 .hypothesis/
 .pytest_cache/
+
+
+# Generated files
+submission.csv
